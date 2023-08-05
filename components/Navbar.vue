@@ -8,6 +8,7 @@
                     <div class="navbar-nav">
                         <NuxtLink class="nav-link" aria-current="page" to="/">Home</NuxtLink>
                         <NuxtLink class="nav-link" to="/secondpage">Second Page</NuxtLink>
+                        <NuxtLink class="nav-link" to="/fishdata">Fish Data</NuxtLink>
                     </div>
                 </div>
             </div>
